@@ -3,6 +3,7 @@ CS48: (NDA/IP) Tachyon II Space VNX Card (Software)
 
 ## Team Members
 Matthew Laidlaw: laidlawm@oregonstate.edu
+
 Logan Shuler:    shulerp@oregonstate.edu
 
 ## Background
