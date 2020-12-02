@@ -1,6 +1,10 @@
 # Tachyon II FPGA
 CS48: (NDA/IP) Tachyon II Space VNX Card (Software)
 
+## Team Members
+Matthew Laidlaw: laidlawm@oregonstate.edu
+Logan Shuler:    shulerp@oregonstate.edu
+
 ## Background
 This team will be working with our project partner Praesum Communications to develop a RISC-V based FPGA device, one of the first of its type. Ideally, the new device will feature Praesum's RapidIO IP in order to create a high-bandwidth, low-latency accelerator for imaging applications. The device is marketed towards HPC customers, like the aerospace industry. We will use the PolarFire Icicle Kit FPGA development platform as the basis for work.
 
