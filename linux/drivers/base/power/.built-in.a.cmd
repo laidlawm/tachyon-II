@@ -1,0 +1,1 @@
+cmd_drivers/base/power/built-in.a := rm -f drivers/base/power/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/base/power/built-in.a drivers/base/power/clock_ops.o

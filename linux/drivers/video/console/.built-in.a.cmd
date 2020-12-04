@@ -1,0 +1,1 @@
+cmd_drivers/video/console/built-in.a := rm -f drivers/video/console/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/video/console/built-in.a drivers/video/console/dummycon.o drivers/video/console/vgacon.o

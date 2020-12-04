@@ -1,0 +1,1 @@
+cmd_vmlinux := sh /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/work/linux_build/scripts/link-vmlinux.sh /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ld  -melf64lriscv  --build-id  -X ;  true

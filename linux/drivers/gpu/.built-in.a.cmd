@@ -1,0 +1,1 @@
+cmd_drivers/gpu/built-in.a := rm -f drivers/gpu/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/gpu/built-in.a drivers/gpu/drm/built-in.a drivers/gpu/vga/built-in.a

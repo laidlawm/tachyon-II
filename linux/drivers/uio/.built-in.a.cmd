@@ -1,0 +1,1 @@
+cmd_drivers/uio/built-in.a := rm -f drivers/uio/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/uio/built-in.a drivers/uio/uio.o drivers/uio/uio_pdrv_genirq.o drivers/uio/uio_dmem_genirq.o

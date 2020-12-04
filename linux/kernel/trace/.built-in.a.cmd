@@ -1,0 +1,1 @@
+cmd_kernel/trace/built-in.a := rm -f kernel/trace/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST kernel/trace/built-in.a kernel/trace/trace_clock.o

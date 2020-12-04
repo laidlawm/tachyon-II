@@ -1,0 +1,1 @@
+cmd_drivers/hid/usbhid/built-in.a := rm -f drivers/hid/usbhid/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/hid/usbhid/built-in.a drivers/hid/usbhid/hid-core.o

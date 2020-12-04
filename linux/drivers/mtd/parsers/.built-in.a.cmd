@@ -1,0 +1,1 @@
+cmd_drivers/mtd/parsers/built-in.a := rm -f drivers/mtd/parsers/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/mtd/parsers/built-in.a drivers/mtd/parsers/ofpart.o

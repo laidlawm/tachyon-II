@@ -1,0 +1,1 @@
+cmd_drivers/irqchip/built-in.a := rm -f drivers/irqchip/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/irqchip/built-in.a drivers/irqchip/irqchip.o drivers/irqchip/irq-sifive-plic.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/mmc/built-in.a := rm -f drivers/media/mmc/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/media/mmc/built-in.a drivers/media/mmc/siano/built-in.a

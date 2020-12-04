@@ -1,0 +1,1 @@
+cmd_drivers/input/serio/built-in.a := rm -f drivers/input/serio/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/input/serio/built-in.a drivers/input/serio/serio.o drivers/input/serio/serport.o drivers/input/serio/libps2.o

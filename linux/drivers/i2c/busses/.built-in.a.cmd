@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.a := rm -f drivers/i2c/busses/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/i2c/busses/built-in.a drivers/i2c/busses/i2c-microsemi.o drivers/i2c/busses/i2c-ocores.o

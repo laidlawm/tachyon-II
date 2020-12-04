@@ -1,0 +1,1 @@
+cmd_drivers/dma/sf-pdma/built-in.a := rm -f drivers/dma/sf-pdma/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/dma/sf-pdma/built-in.a drivers/dma/sf-pdma/sf-pdma.o

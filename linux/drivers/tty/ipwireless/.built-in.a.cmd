@@ -1,0 +1,1 @@
+cmd_drivers/tty/ipwireless/built-in.a := rm -f drivers/tty/ipwireless/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/tty/ipwireless/built-in.a 

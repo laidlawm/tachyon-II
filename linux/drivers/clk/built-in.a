@@ -1,0 +1,33 @@
+!<thin>
+//                                              228       `
+clk-devres.o/
+clk-bulk.o/
+clkdev.o/
+clk.o/
+clk-divider.o/
+clk-fixed-factor.o/
+clk-fixed-rate.o/
+clk-gate.o/
+clk-multiplier.o/
+clk-mux.o/
+clk-composite.o/
+clk-fractional-divider.o/
+clk-gpio.o/
+clk-conf.o/
+microchip/clk-pfsoc.o/
+
+/0              0           0     0     644     9696      `
+/14             0           0     0     644     11544     `
+/26             0           0     0     644     18864     `
+/36             0           0     0     644     143872    `
+/43             0           0     0     644     22224     `
+/58             0           0     0     644     13160     `
+/78             0           0     0     644     10832     `
+/96             0           0     0     644     9128      `
+/108            0           0     0     644     5064      `
+/126            0           0     0     644     12704     `
+/137           /0           0     0     644     10848     `
+/154            0           0     0     644     7824      `
+/180            0           0     0     644     9320      `
+/192            0           0     0     644     8512      `
+/204            0           0     0     644     11992     `

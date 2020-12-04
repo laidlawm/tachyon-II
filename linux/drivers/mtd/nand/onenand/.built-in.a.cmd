@@ -1,0 +1,1 @@
+cmd_drivers/mtd/nand/onenand/built-in.a := rm -f drivers/mtd/nand/onenand/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/mtd/nand/onenand/built-in.a 

@@ -1,0 +1,1 @@
+cmd_kernel/power/built-in.a := rm -f kernel/power/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST kernel/power/built-in.a kernel/power/qos.o

@@ -1,0 +1,1 @@
+cmd_drivers/usb/common/built-in.a := rm -f drivers/usb/common/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/usb/common/built-in.a drivers/usb/common/common.o

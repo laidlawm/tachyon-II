@@ -1,0 +1,1 @@
+cmd_drivers/crypto/built-in.a := rm -f drivers/crypto/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/crypto/built-in.a drivers/crypto/hisilicon/built-in.a

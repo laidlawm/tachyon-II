@@ -1,0 +1,1 @@
+cmd_drivers/misc/ti-st/built-in.a := rm -f drivers/misc/ti-st/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/misc/ti-st/built-in.a 

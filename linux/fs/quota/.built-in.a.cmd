@@ -1,0 +1,1 @@
+cmd_fs/quota/built-in.a := rm -f fs/quota/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST fs/quota/built-in.a fs/quota/dquot.o fs/quota/quota.o fs/quota/kqid.o

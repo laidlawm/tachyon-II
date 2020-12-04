@@ -1,0 +1,1 @@
+cmd_/home/matt/Modules/rapidio/rapidio.o := /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ld  -melf64lriscv    -r -o /home/matt/Modules/rapidio/rapidio.o /home/matt/Modules/rapidio/rio.o /home/matt/Modules/rapidio/rio-access.o /home/matt/Modules/rapidio/rio-driver.o /home/matt/Modules/rapidio/rio-sysfs.o

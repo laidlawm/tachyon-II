@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/pmbus/built-in.a := rm -f drivers/hwmon/pmbus/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/hwmon/pmbus/built-in.a drivers/hwmon/pmbus/pmbus_core.o drivers/hwmon/pmbus/pmbus.o

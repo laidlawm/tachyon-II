@@ -1,0 +1,1 @@
+cmd_drivers/mtd/maps/built-in.a := rm -f drivers/mtd/maps/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/mtd/maps/built-in.a drivers/mtd/maps/physmap-core.o

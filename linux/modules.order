@@ -1,0 +1,9 @@
+crypto/crypto_engine.ko
+crypto/aead.ko
+crypto/geniv.ko
+crypto/skcipher.ko
+crypto/crypto_null.ko
+crypto/rng.ko
+drivers/gpio/gpio-microsemi.ko
+drivers/char/hw_random/rng-core.ko
+drivers/crypto/virtio/virtio_crypto.ko

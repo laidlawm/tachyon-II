@@ -1,0 +1,1 @@
+cmd_arch/riscv/built-in.a := rm -f arch/riscv/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST arch/riscv/built-in.a arch/riscv/kernel/built-in.a arch/riscv/mm/built-in.a arch/riscv/net/built-in.a

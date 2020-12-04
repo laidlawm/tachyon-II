@@ -1,0 +1,1 @@
+cmd_drivers/char/ipmi/built-in.a := rm -f drivers/char/ipmi/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/char/ipmi/built-in.a 

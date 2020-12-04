@@ -1,0 +1,1 @@
+cmd_drivers/crypto/virtio/virtio_crypto.o := /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ld  -melf64lriscv    -r -o drivers/crypto/virtio/virtio_crypto.o drivers/crypto/virtio/virtio_crypto_algs.o drivers/crypto/virtio/virtio_crypto_mgr.o drivers/crypto/virtio/virtio_crypto_core.o

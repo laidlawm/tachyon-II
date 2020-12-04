@@ -1,0 +1,1 @@
+cmd_drivers/block/built-in.a := rm -f drivers/block/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/block/built-in.a drivers/block/loop.o drivers/block/nbd.o drivers/block/virtio_blk.o

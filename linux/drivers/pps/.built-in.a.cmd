@@ -1,0 +1,1 @@
+cmd_drivers/pps/built-in.a := rm -f drivers/pps/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/pps/built-in.a drivers/pps/pps.o drivers/pps/kapi.o drivers/pps/sysfs.o drivers/pps/clients/built-in.a drivers/pps/generators/built-in.a

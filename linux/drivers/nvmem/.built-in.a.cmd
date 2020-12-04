@@ -1,0 +1,1 @@
+cmd_drivers/nvmem/built-in.a := rm -f drivers/nvmem/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/nvmem/built-in.a drivers/nvmem/core.o drivers/nvmem/nvmem-sysfs.o

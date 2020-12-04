@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/built-in.a := rm -f drivers/usb/storage/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/usb/storage/built-in.a 

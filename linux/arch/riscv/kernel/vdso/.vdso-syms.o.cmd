@@ -1,0 +1,1 @@
+cmd_arch/riscv/kernel/vdso/vdso-syms.o := /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ld  -melf64lriscv   -r --just-symbols arch/riscv/kernel/vdso/vdso-dummy.o -o arch/riscv/kernel/vdso/vdso-syms.o

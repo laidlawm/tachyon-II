@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/marvell/built-in.a := rm -f drivers/net/wireless/marvell/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/net/wireless/marvell/built-in.a 

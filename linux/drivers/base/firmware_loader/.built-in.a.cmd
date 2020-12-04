@@ -1,0 +1,1 @@
+cmd_drivers/base/firmware_loader/built-in.a := rm -f drivers/base/firmware_loader/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/base/firmware_loader/built-in.a drivers/base/firmware_loader/main.o drivers/base/firmware_loader/builtin/built-in.a

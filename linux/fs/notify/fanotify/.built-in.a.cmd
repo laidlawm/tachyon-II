@@ -1,0 +1,1 @@
+cmd_fs/notify/fanotify/built-in.a := rm -f fs/notify/fanotify/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST fs/notify/fanotify/built-in.a fs/notify/fanotify/fanotify.o fs/notify/fanotify/fanotify_user.o

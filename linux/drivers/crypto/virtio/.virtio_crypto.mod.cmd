@@ -1,0 +1,1 @@
+cmd_drivers/crypto/virtio/virtio_crypto.mod := { echo  drivers/crypto/virtio/virtio_crypto_algs.o drivers/crypto/virtio/virtio_crypto_mgr.o drivers/crypto/virtio/virtio_crypto_core.o; echo; } > drivers/crypto/virtio/virtio_crypto.mod

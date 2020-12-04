@@ -1,0 +1,1 @@
+cmd_drivers/clk/imgtec/built-in.a := rm -f drivers/clk/imgtec/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/clk/imgtec/built-in.a 

@@ -1,0 +1,34 @@
+!<thin>
+//                                              272       `
+mtdcore.o/
+mtdsuper.o/
+mtdconcat.o/
+mtdpart.o/
+mtdchar.o/
+parsers/ofpart.o/
+mtd_blkdevs.o/
+mtdblock.o/
+chips/chipreg.o/
+chips/cfi_probe.o/
+chips/cfi_util.o/
+chips/cfi_cmdset_0020.o/
+chips/cfi_cmdset_0002.o/
+chips/cfi_cmdset_0001.o/
+chips/gen_probe.o/
+maps/physmap-core.o/
+/0              0           0     0     644     73760     `
+/11             0           0     0     644     7712      `
+/23             0           0     0     644     23096     `
+/36             0           0     0     644     39976     `
+/47             0           0     0     644     29400     `
+/58             0           0     0     644     12536     `
+/76             0           0     0     644     32136     `
+/91             0           0     0     644     9864      `
+/103            0           0     0     644     8168      `
+/120            0           0     0     644     11824     `
+/139            0           0     0     644     17376     `
+/157            0           0     0     644     57360     `
+/182            0           0     0     644     98632     `
+/207            0           0     0     644     81848     `
+/232            0           0     0     644     12568     `
+/251            0           0     0     644     12744     `

@@ -1,0 +1,1 @@
+cmd_fs/ramfs/built-in.a := rm -f fs/ramfs/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST fs/ramfs/built-in.a fs/ramfs/inode.o fs/ramfs/file-mmu.o

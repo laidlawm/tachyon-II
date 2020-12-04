@@ -1,0 +1,1 @@
+cmd_arch/riscv/kernel/vdso/built-in.a := rm -f arch/riscv/kernel/vdso/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST arch/riscv/kernel/vdso/built-in.a arch/riscv/kernel/vdso/vdso.o arch/riscv/kernel/vdso/vdso-syms.o

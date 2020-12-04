@@ -1,0 +1,67 @@
+!<thin>
+//                                              554       `
+kernel/cpu.o/
+kernel/cpufeature.o/
+kernel/entry.o/
+kernel/irq.o/
+kernel/process.o/
+kernel/ptrace.o/
+kernel/reset.o/
+kernel/setup.o/
+kernel/signal.o/
+kernel/syscall_table.o/
+kernel/sys_riscv.o/
+kernel/time.o/
+kernel/traps.o/
+kernel/riscv_ksyms.o/
+kernel/stacktrace.o/
+kernel/cacheinfo.o/
+kernel/vdso.o/
+kernel/vdso/vdso.o/
+kernel/vdso/vdso-syms.o/
+kernel/fpu.o/
+kernel/smpboot.o/
+kernel/smp.o/
+kernel/module.o/
+kernel/module-sections.o/
+kernel/perf_regs.o/
+kernel/sbi.o/
+mm/init.o/
+mm/extable.o/
+mm/fault.o/
+mm/cacheflush.o/
+mm/context.o/
+mm/tlbflush.o/
+
+/0              0           0     0     644     9272      `
+/14             0           0     0     644     4216      `
+/35             0           0     0     644     5832      `
+/51             0           0     0     644     3672      `
+/65             0           0     0     644     6688      `
+/83             0           0     0     644     6648      `
+/100            0           0     0     644     2352      `
+/116            0           0     0     644     3808      `
+/132            0           0     0     644     9344      `
+/149           /0           0     0     644     26264     `
+/173            0           0     0     644     1488      `
+/193            0           0     0     644     3288      `
+/208            0           0     0     644     11800     `
+/224            0           0     0     644     2760      `
+/246            0           0     0     644     5272      `
+/267            0           0     0     644     8912      `
+/287            0           0     0     644     12440     `
+/302            0           0     0     644     8960      `
+/322            0           0     0     644     416       `
+/347            0           0     0     644     1144      `
+/361            0           0     0     644     7736      `
+/379            0           0     0     644     13232     `
+/393            0           0     0     644     8568      `
+/410            0           0     0     644     6440      `
+/436            0           0     0     644     1936      `
+/456            0           0     0     644     1744      `
+/470            0           0     0     644     34200     `
+/481            0           0     0     644     1224      `
+/495            0           0     0     644     7224      `
+/507            0           0     0     644     2424      `
+/524            0           0     0     644     1424      `
+/538            0           0     0     644     2232      `

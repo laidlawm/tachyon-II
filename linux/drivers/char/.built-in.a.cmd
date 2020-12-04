@@ -1,0 +1,1 @@
+cmd_drivers/char/built-in.a := rm -f drivers/char/built-in.a; /home/matt/IcicleKit/polarfire-soc-buildroot-sdk/toolchain/bin/riscv64-unknown-linux-gnu-ar cDPrST drivers/char/built-in.a drivers/char/mem.o drivers/char/random.o drivers/char/misc.o drivers/char/agp/built-in.a
